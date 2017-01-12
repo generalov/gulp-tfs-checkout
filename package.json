@@ -21,8 +21,11 @@
   "license": "MIT",
   "dependencies": {
     "gulp-util": "^3.0.3",
+    "lodash.defaultto": "^4.14.0",
+    "object-assign": "^4.1.0",
     "through2": "^0.6.3",
-    "tfs-unlock": "^0.5.0"
+    "tfs-unlock": "^0.5.0",
+    "value-or-function": "^2.0.0"
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
